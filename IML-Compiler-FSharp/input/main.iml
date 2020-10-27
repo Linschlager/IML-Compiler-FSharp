@@ -1,0 +1,28 @@
+program recordsDemo()
+global
+ 
+  record point3D(x:int64, y:int64, z:int64);
+  record point2D(x:int64, y:int64);
+  
+  record randomTuple(f:bool, s:bool);
+ 
+  record vector2D(p1:point2D, p2:point2D);
+ 
+  const p1 : point2D;
+  var   p2 : point3D;
+  const r : randomTuple;
+  const vec: vector2D // Hello, World!
+ 
+do
+  p1 init := point2D(5, -4);
+  p2 init := point3D(p1.x, p1.y, 0);
+  r init := randomTuple(true, false);
+  p2.z    := p2.z + 10;
+ 
+  vec init := vector2D(p1, point2D(0, 0))
+  
+  if r.f /\? r.s then
+    call print
+  endif
+ 
+endprogram
