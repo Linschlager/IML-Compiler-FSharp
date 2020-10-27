@@ -14,14 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87771287-ef25-4ebd-ba99-faab26bfd23f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/IML-Compiler-FSharp.fsproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/Program.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/Types.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Lexer.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Types.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/parser/Parser.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IML-Compiler-FSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IML-Compiler-FSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/IML-Compiler-FSharp.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/IML-Compiler-FSharp.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/Program.fs" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/Program.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/Types.fs" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/Types.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Lexer.fs" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Lexer.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Types.fs" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Types.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML-Compiler-FSharp/parser/Parser.fs" beforeDir="false" afterPath="$PROJECT_DIR$/IML-Compiler-FSharp/parser/Parser.fs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +35,9 @@
       <list>
         <option value="$PROJECT_DIR$/IML-Compiler-FSharp/Program.fs" />
         <option value="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Lexer.fs" />
+        <option value="$PROJECT_DIR$/IML-Compiler-FSharp/input/main.iml" />
         <option value="$PROJECT_DIR$/IML-Compiler-FSharp/Types.fs" />
         <option value="$PROJECT_DIR$/IML-Compiler-FSharp/lexer/Types.fs" />
-        <option value="$PROJECT_DIR$/IML-Compiler-FSharp/input/main.iml" />
         <option value="$PROJECT_DIR$/IML-Compiler-FSharp/parser/Parser.fs" />
       </list>
     </option>
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603811466898</updated>
-      <workItem from="1603811469964" duration="19786000" />
+      <workItem from="1603811469964" duration="22114000" />
     </task>
     <servers />
   </component>
@@ -121,22 +120,30 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="431" height="466" key="DebuggerActiveHint/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603821342660" />
-    <state width="3397" height="389" key="GridCell.Tab.0.bottom" timestamp="1603837086013">
+    <state x="1568" y="598" key="Github.ShareDialog" timestamp="1603837346014">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="389" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837086013" />
-    <state width="3397" height="389" key="GridCell.Tab.0.center" timestamp="1603837086013">
+    <state x="1568" y="598" key="Github.ShareDialog/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837346014" />
+    <state x="1532" y="399" key="Github.UntrackedFilesDialog" timestamp="1603837356061">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="389" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837086013" />
-    <state width="3397" height="389" key="GridCell.Tab.0.left" timestamp="1603837086013">
+    <state x="1532" y="399" key="Github.UntrackedFilesDialog/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837356061" />
+    <state width="3397" height="389" key="GridCell.Tab.0.bottom" timestamp="1603840518975">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="389" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837086013" />
-    <state width="3397" height="389" key="GridCell.Tab.0.right" timestamp="1603837086013">
+    <state width="3397" height="389" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603840518975" />
+    <state width="3397" height="389" key="GridCell.Tab.0.center" timestamp="1603840518975">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="3397" height="389" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603837086013" />
+    <state width="3397" height="389" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603840518975" />
+    <state width="3397" height="389" key="GridCell.Tab.0.left" timestamp="1603840518975">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="389" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603840518975" />
+    <state width="3397" height="389" key="GridCell.Tab.0.right" timestamp="1603840518975">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="389" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.2560.1400@0.0.3440.1400" timestamp="1603840518975" />
     <state width="2104" height="518" key="GridCell.Tab.1.bottom" timestamp="1603823966430">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

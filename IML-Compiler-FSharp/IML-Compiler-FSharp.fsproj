@@ -7,7 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs"/>
+        <Compile Include="Types.fs" />
+        <Compile Include="lexer\Types.fs" />
+        <Compile Include="lexer\Lexer.fs" />
+        <Compile Include="parser\Parser.fs" />
+        <Content Include="input\main.iml" />
+        <Compile Include="Program.fs" />
     </ItemGroup>
 
 </Project>
